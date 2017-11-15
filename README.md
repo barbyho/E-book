@@ -5,4 +5,4 @@
 軟體：
 使用 File PDF Corporate Edition 與 Electorn
 
-gs://dfghjkl-e001e.appspot.com/其中.jpg
+![](gs://dfghjkl-e001e.appspot.com/其中.jpg)
